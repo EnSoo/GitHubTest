@@ -16,9 +16,6 @@
             android:name=".activities.SecondActivity"
             android:exported="false" />
         <activity
-            android:name=".fragments.MainActivity"
-            android:exported="false" />
-        <activity
             android:name=".activities.MainActivity"
             android:exported="true">
             <intent-filter>
